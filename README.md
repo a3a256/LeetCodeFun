@@ -1,2 +1,2 @@
 # LeetCodeFun
-Solving LeetCode problems using C++
+Solving LeetCode problems using C/C++

@@ -20,7 +20,6 @@ public:
 
 class Solution {
 public:
-
     vector<int> vals;
 
     void travel(Node* tree){
@@ -35,7 +34,6 @@ public:
 
     vector<int> postorder(Node* root) {
         travel(root);
-
         return vals;
     }
 };

@@ -21,7 +21,6 @@ public:
             }
             nums = to_string(res);
         }
-
         return res;
     }
 };

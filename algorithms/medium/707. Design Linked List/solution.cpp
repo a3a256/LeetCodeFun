@@ -11,7 +11,6 @@ class MyLinkedList {
     Node *head;
 public:
     MyLinkedList():head(nullptr) {
-        
     }
     
     int len(){
